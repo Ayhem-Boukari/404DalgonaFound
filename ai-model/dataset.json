@@ -1,0 +1,1151 @@
+{
+  "dataset1": [
+    {
+      "id": 1,
+      "category": "Informations Générales sur l'Établissement",
+      "question": "Quelle est la mission de notre établissement ?",
+      "answer": "Notre mission est de fournir une éducation de qualité, accessible à tous, et de promouvoir l'innovation et la recherche."
+    },
+    {
+      "id": 2,
+      "category": "Informations Générales sur l'Établissement",
+      "question": "Quels sont les valeurs fondamentales de notre école ?",
+      "answer": "Nos valeurs incluent l'intégrité, l'excellence académique, la diversité et l'engagement communautaire."
+    },
+    {
+      "id": 3,
+      "category": "Informations Générales sur l'Établissement",
+      "question": "Combien d'étudiants sont inscrits cette année ?",
+      "answer": "Cette année, nous avons 10 000 étudiants inscrits."
+    },
+    {
+      "id": 4,
+      "category": "Informations Générales sur l'Établissement",
+      "question": "Quelle est la durée moyenne d'obtention d'un diplôme ?",
+      "answer": "La durée moyenne est de 3 à 4 ans pour un diplôme de premier cycle."
+    },
+    {
+      "id": 5,
+      "category": "Informations Générales sur l'Établissement",
+      "question": "Quels sont les partenariats académiques de l'établissement ?",
+      "answer": "Nous collaborons avec des universités internationales comme Harvard, Sorbonne, et l'Université de Tokyo."
+    },
+    {
+      "id": 6,
+      "category": "Programmes et Cours",
+      "question": "Quels sont les programmes de premier cycle offerts ?",
+      "answer": "Nous offrons des programmes en informatique, gestion, sciences sociales, et ingénierie."
+    },
+    {
+      "id": 7,
+      "category": "Programmes et Cours",
+      "question": "Quels sont les programmes de cycle supérieur disponibles ?",
+      "answer": "Nous proposons des masters en Data Science, MBA, et des doctorats en recherche."
+    },
+    {
+      "id": 8,
+      "category": "Programmes et Cours",
+      "question": "Y a-t-il des programmes en ligne ou à distance ?",
+      "answer": "Oui, nous proposons des programmes en ligne pour les étudiants internationaux."
+    },
+    {
+      "id": 9,
+      "category": "Programmes et Cours",
+      "question": "Quels sont les cours les plus populaires parmi les étudiants ?",
+      "answer": "Les cours les plus populaires sont l'introduction à l'informatique, le marketing digital, et la psychologie sociale."
+    },
+    {
+      "id": 10,
+      "category": "Programmes et Cours",
+      "question": "Y a-t-il des programmes d'échange internationaux ?",
+      "answer": "Oui, nous avons des accords avec plus de 50 universités à travers le monde pour des échanges étudiants."
+    },
+    {
+      "id": 11,
+      "category": "Admission et Inscription",
+      "question": "Quels sont les critères d'admission pour les nouveaux étudiants ?",
+      "answer": "Les critères incluent un diplôme de fin d'études secondaires, une lettre de motivation, et des scores aux tests standardisés."
+    },
+    {
+      "id": 12,
+      "category": "Admission et Inscription",
+      "question": "Quels documents sont nécessaires pour l'inscription ?",
+      "answer": "Vous aurez besoin de votre diplôme, d'une pièce d'identité, d'une photo d'identité, et d'une preuve de paiement des frais d'inscription."
+    },
+    {
+      "id": 13,
+      "category": "Admission et Inscription",
+      "question": "Y a-t-il des frais d'inscription ? Si oui, combien ?",
+      "answer": "Oui, les frais d'inscription sont de 200 euros pour les nouveaux étudiants."
+    },
+    {
+      "id": 14,
+      "category": "Admission et Inscription",
+      "question": "Existe-t-il des bourses d'études disponibles ?",
+      "answer": "Oui, nous offrons des bourses basées sur le mérite et les besoins financiers."
+    },
+    {
+      "id": 15,
+      "category": "Admission et Inscription",
+      "question": "Quelle est la date limite pour postuler ?",
+      "answer": "La date limite pour postuler est le 30 juin de chaque année."
+    },
+    {
+      "id": 16,
+      "category": "Vie Étudiante",
+      "question": "Quelles activités extrascolaires sont proposées ?",
+      "answer": "Nous proposons des clubs sportifs, des associations culturelles, et des événements communautaires."
+    },
+    {
+      "id": 17,
+      "category": "Vie Étudiante",
+      "question": "Y a-t-il des clubs étudiants actifs sur le campus ?",
+      "answer": "Oui, il y a plus de 50 clubs étudiants actifs, allant des clubs de débat aux clubs de robotique."
+    },
+    {
+      "id": 18,
+      "category": "Vie Étudiante",
+      "question": "Quels sont les services de soutien aux étudiants disponibles ?",
+      "answer": "Nous offrons un soutien académique, psychologique, et des services d'orientation professionnelle."
+    },
+    {
+      "id": 19,
+      "category": "Vie Étudiante",
+      "question": "Y a-t-il des logements étudiants sur le campus ?",
+      "answer": "Oui, nous avons des résidences étudiantes sur le campus avec des options de chambres individuelles ou partagées."
+    },
+    {
+      "id": 20,
+      "category": "Vie Étudiante",
+      "question": "Comment fonctionne le système de transport pour les étudiants ?",
+      "answer": "Nous offrons des navettes gratuites entre le campus et les résidences étudiantes, ainsi que des réductions sur les transports publics."
+    },
+    {
+      "id": 21,
+      "category": "Ressources Académiques",
+      "question": "Quelles sont les heures d'ouverture de la bibliothèque ?",
+      "answer": "La bibliothèque est ouverte du lundi au vendredi de 8h à 20h, et le samedi de 9h à 17h."
+    },
+    {
+      "id": 22,
+      "category": "Ressources Académiques",
+      "question": "Y a-t-il des ressources en ligne disponibles pour les étudiants ?",
+      "answer": "Oui, nous avons une bibliothèque numérique avec des milliers de livres, articles, et vidéos éducatives."
+    },
+    {
+      "id": 23,
+      "category": "Ressources Académiques",
+      "question": "Comment accéder aux laboratoires de recherche ?",
+      "answer": "Les laboratoires sont accessibles sur réservation pour les étudiants inscrits dans des programmes de recherche."
+    },
+    {
+      "id": 24,
+      "category": "Ressources Académiques",
+      "question": "Y a-t-il des tutorats disponibles pour les étudiants ?",
+      "answer": "Oui, nous offrons des séances de tutorat gratuites pour les étudiants en difficulté."
+    },
+    {
+      "id": 25,
+      "category": "Ressources Académiques",
+      "question": "Quels sont les logiciels et outils fournis par l'établissement ?",
+      "answer": "Nous fournissons des licences pour Microsoft Office, MATLAB, et d'autres outils spécialisés."
+    },
+    {
+      "id": 26,
+      "category": "Services de Carrière",
+      "question": "Quels services de placement sont offerts aux étudiants ?",
+      "answer": "Nous offrons des ateliers de rédaction de CV, des simulations d'entretiens, et des salons de l'emploi."
+    },
+    {
+      "id": 27,
+      "category": "Services de Carrière",
+      "question": "Y a-t-il des stages obligatoires dans les programmes ?",
+      "answer": "Oui, certains programmes incluent des stages obligatoires pour valider le diplôme."
+    },
+    {
+      "id": 28,
+      "category": "Services de Carrière",
+      "question": "Comment l'établissement aide-t-il les étudiants à trouver un emploi ?",
+      "answer": "Nous organisons des événements de networking, des ateliers de carrière, et des partenariats avec des entreprises."
+    },
+    {
+      "id": 29,
+      "category": "Services de Carrière",
+      "question": "Y a-t-il des ateliers de préparation à la carrière ?",
+      "answer": "Oui, nous proposons des ateliers réguliers sur la recherche d'emploi, la négociation de salaire, et la gestion de carrière."
+    },
+    {
+      "id": 30,
+      "category": "Services de Carrière",
+      "question": "Quelles entreprises recrutent régulièrement sur le campus ?",
+      "answer": "Des entreprises comme Google, Amazon, et Deloitte recrutent régulièrement sur notre campus."
+    },
+    {
+      "id": 31,
+      "category": "Santé et Bien-être",
+      "question": "Y a-t-il un centre de santé sur le campus ?",
+      "answer": "Oui, nous avons un centre de santé ouvert du lundi au vendredi de 9h à 17h."
+    },
+    {
+      "id": 32,
+      "category": "Santé et Bien-être",
+      "question": "Quels services de santé mentale sont disponibles ?",
+      "answer": "Nous offrons des consultations psychologiques gratuites pour les étudiants."
+    },
+    {
+      "id": 33,
+      "category": "Santé et Bien-être",
+      "question": "Y a-t-il des programmes de bien-être pour les étudiants ?",
+      "answer": "Oui, nous proposons des ateliers de méditation, de gestion du stress, et de nutrition."
+    },
+    {
+      "id": 34,
+      "category": "Santé et Bien-être",
+      "question": "Comment signaler un problème de santé ou de sécurité ?",
+      "answer": "Vous pouvez contacter le bureau de la sécurité sur le campus ou appeler le numéro d'urgence fourni."
+    },
+    {
+      "id": 35,
+      "category": "Santé et Bien-être",
+      "question": "Y a-t-il des installations sportives disponibles pour les étudiants ?",
+      "answer": "Oui, nous avons un gymnase, une piscine, et des terrains de sport accessibles à tous les étudiants."
+    },
+    {
+      "id": 36,
+      "category": "Technologie et Innovation",
+      "question": "Quelles technologies sont utilisées dans les salles de classe ?",
+      "answer": "Nous utilisons des tableaux interactifs, des projecteurs 4K, et des systèmes de visioconférence."
+    },
+    {
+      "id": 37,
+      "category": "Technologie et Innovation",
+      "question": "Y a-t-il des initiatives d'innovation ou de recherche en cours ?",
+      "answer": "Oui, nous avons des laboratoires de recherche en IA, robotique, et énergie renouvelable."
+    },
+    {
+      "id": 38,
+      "category": "Technologie et Innovation",
+      "question": "Comment les étudiants peuvent-ils accéder au Wi-Fi sur le campus ?",
+      "answer": "Les étudiants peuvent se connecter au Wi-Fi en utilisant leurs identifiants universitaires."
+    },
+    {
+      "id": 39,
+      "category": "Technologie et Innovation",
+      "question": "Y a-t-il des ressources pour les étudiants en informatique ?",
+      "answer": "Oui, nous avons des laboratoires informatiques équipés des derniers logiciels et matériels."
+    },
+    {
+      "id": 40,
+      "category": "Technologie et Innovation",
+      "question": "Comment signaler un problème technique ?",
+      "answer": "Vous pouvez contacter le support technique via le portail en ligne ou en appelant le bureau d'assistance."
+    },
+    {
+      "id": 41,
+      "category": "Politiques et Règlements",
+      "question": "Quelle est la politique de l'établissement en matière de plagiat ?",
+      "answer": "Le plagiat est strictement interdit et peut entraîner des sanctions disciplinaires, y compris l'exclusion."
+    },
+    {
+      "id": 42,
+      "category": "Politiques et Règlements",
+      "question": "Comment fonctionne le système de notation ?",
+      "answer": "Les notes sont basées sur des examens, des projets, et la participation en classe, sur une échelle de 0 à 20."
+    },
+    {
+      "id": 43,
+      "category": "Politiques et Règlements",
+      "question": "Quelles sont les règles concernant les absences en cours ?",
+      "answer": "Les étudiants ne peuvent pas manquer plus de 20% des cours sans justification médicale."
+    },
+    {
+      "id": 44,
+      "category": "Politiques et Règlements",
+      "question": "Y a-t-il un code de conduite pour les étudiants ?",
+      "answer": "Oui, le code de conduite est disponible dans le manuel de l'étudiant et doit être respecté à tout moment."
+    },
+    {
+      "id": 45,
+      "category": "Politiques et Règlements",
+      "question": "Comment déposer une plainte ou un grief ?",
+      "answer": "Vous pouvez déposer une plainte en ligne via le portail étudiant ou en personne au bureau des affaires étudiantes."
+    },
+    {
+      "id": 46,
+      "category": "Événements et Actualités",
+      "question": "Quels sont les événements majeurs prévus cette année ?",
+      "answer": "Nous organisons une journée portes ouvertes, un festival culturel, et une conférence sur l'innovation."
+    },
+    {
+      "id": 47,
+      "category": "Événements et Actualités",
+      "question": "Comment les étudiants peuvent-ils participer à l'organisation d'événements ?",
+      "answer": "Les étudiants peuvent rejoindre le comité des événements ou proposer des idées via le bureau des activités étudiantes."
+    },
+    {
+      "id": 48,
+      "category": "Événements et Actualités",
+      "question": "Y a-t-il des conférences ou des séminaires ouverts aux étudiants ?",
+      "answer": "Oui, nous organisons régulièrement des conférences avec des experts internationaux."
+    },
+    {
+      "id": 49,
+      "category": "Événements et Actualités",
+      "question": "Comment rester informé des actualités de l'établissement ?",
+      "answer": "Vous pouvez consulter notre site web, notre application mobile, ou suivre nos réseaux sociaux."
+    },
+    {
+      "id": 50,
+      "category": "Événements et Actualités",
+      "question": "Y a-t-il des événements culturels ou artistiques sur le campus ?",
+      "answer": "Oui, nous organisons des expositions d'art, des concerts, et des pièces de théâtre tout au long de l'année."
+    },
+    {
+      "id": 51,
+      "category": "Site Web et Plateformes en Ligne",
+      "question": "Comment accéder à mon espace étudiant sur le site web de l'établissement ?",
+      "answer": "Vous pouvez accéder à votre espace étudiant en vous connectant avec vos identifiants sur le portail en ligne."
+    },
+    {
+      "id": 52,
+      "category": "Site Web et Plateformes en Ligne",
+      "question": "Où puis-je trouver les horaires des cours sur le site web ?",
+      "answer": "Les horaires des cours sont disponibles dans la section 'Emploi du temps' de votre espace étudiant."
+    },
+    {
+      "id": 53,
+      "category": "Site Web et Plateformes en Ligne",
+      "question": "Comment réinitialiser mon mot de passe pour les plateformes en ligne de l'établissement ?",
+      "answer": "Vous pouvez réinitialiser votre mot de passe en cliquant sur 'Mot de passe oublié' sur la page de connexion."
+    },
+    {
+      "id": 54,
+      "category": "Site Web et Plateformes en Ligne",
+      "question": "Y a-t-il une application mobile pour accéder aux services de l'établissement ?",
+      "answer": "Oui, nous avons une application mobile disponible sur iOS et Android."
+    },
+    {
+      "id": 55,
+      "category": "Site Web et Plateformes en Ligne",
+      "question": "Où puis-je trouver les ressources pédagogiques en ligne sur le site web ?",
+      "answer": "Les ressources pédagogiques sont disponibles dans la section 'Ressources' de votre espace étudiant."
+    },
+    {
+      "id": 56,
+      "category": "Stages et Expériences Professionnelles",
+      "question": "Comment trouver des offres de stages proposées par l'établissement ?",
+      "answer": "Les offres de stages sont publiées sur le portail carrière de l'établissement."
+    },
+    {
+      "id": 57,
+      "category": "Stages et Expériences Professionnelles",
+      "question": "Y a-t-il un bureau dédié aux stages et à l'insertion professionnelle ?",
+      "answer": "Oui, le bureau des stages est situé au bâtiment principal et est ouvert du lundi au vendredi."
+    },
+    {
+      "id": 58,
+      "category": "Stages et Expériences Professionnelles",
+      "question": "Les stages sont-ils rémunérés ou obligatoires dans certains programmes ?",
+      "answer": "Certains stages sont rémunérés, et d'autres sont obligatoires pour valider le diplôme."
+    },
+    {
+      "id": 59,
+      "category": "Stages et Expériences Professionnelles",
+      "question": "Comment obtenir une attestation de stage après avoir terminé mon stage ?",
+      "answer": "Vous pouvez demander une attestation de stage au bureau des stages après avoir soumis votre rapport de stage."
+    },
+    {
+      "id": 60,
+      "category": "Stages et Expériences Professionnelles",
+      "question": "Quels sont les partenariats avec les entreprises pour les stages ?",
+      "answer": "Nous avons des partenariats avec des entreprises comme Microsoft, Total, et L'Oréal."
+    },
+    {
+      "id": 61,
+      "category": "Professeurs et Encadrement",
+      "question": "Comment contacter un professeur en dehors des heures de cours ?",
+      "answer": "Vous pouvez contacter un professeur par e-mail ou prendre rendez-vous pendant ses heures de bureau."
+    },
+    {
+      "id": 62,
+      "category": "Professeurs et Encadrement",
+      "question": "Y a-t-il des heures de bureau pour rencontrer les professeurs ?",
+      "answer": "Oui, chaque professeur publie ses heures de bureau sur son profil en ligne."
+    },
+    {
+      "id": 63,
+      "category": "Professeurs et Encadrement",
+      "question": "Comment savoir qui est le responsable pédagogique de mon programme ?",
+      "answer": "Le responsable pédagogique est indiqué dans le descriptif de votre programme sur le site web de l'établissement."
+    },
+    {
+      "id": 64,
+      "category": "Professeurs et Encadrement",
+      "question": "Les professeurs proposent-ils des projets de recherche pour les étudiants ?",
+      "answer": "Oui, de nombreux professeurs proposent des projets de recherche pour les étudiants intéressés."
+    },
+    {
+      "id": 65,
+      "category": "Professeurs et Encadrement",
+      "question": "Comment obtenir une lettre de recommandation d'un professeur ?",
+      "answer": "Vous pouvez demander une lettre de recommandation en personne ou par e-mail, en fournissant les détails nécessaires."
+    },
+    {
+      "id": 66,
+      "category": "Clubs Étudiants et Associations",
+      "question": "Quels sont les clubs étudiants les plus actifs sur le campus ?",
+      "answer": "Les clubs les plus actifs incluent le club de débat, le club de robotique, et l'association des arts créatifs."
+    },
+    {
+      "id": 67,
+      "category": "Clubs Étudiants et Associations",
+      "question": "Comment créer un nouveau club étudiant ?",
+      "answer": "Vous pouvez soumettre une demande de création de club au bureau des activités étudiantes, accompagnée d'un projet détaillé."
+    },
+    {
+      "id": 68,
+      "category": "Clubs Étudiants et Associations",
+      "question": "Y a-t-il des subventions disponibles pour les clubs étudiants ?",
+      "answer": "Oui, les clubs peuvent demander des subventions pour financer leurs activités via le bureau des activités étudiantes."
+    },
+    {
+      "id": 69,
+      "category": "Clubs Étudiants et Associations",
+      "question": "Comment rejoindre un club ou une association étudiante ?",
+      "answer": "Vous pouvez vous inscrire aux clubs via le portail étudiant ou lors des journées d'intégration."
+    },
+    {
+      "id": 70,
+      "category": "Clubs Étudiants et Associations",
+      "question": "Quels événements sont organisés par les clubs étudiants cette année ?",
+      "answer": "Les clubs organisent des tournois sportifs, des ateliers créatifs, et des conférences tout au long de l'année."
+    },
+    {
+      "id": 71,
+      "category": "Services Administratifs et Carte Étudiante",
+      "question": "Comment obtenir ma carte d'étudiant ?",
+      "answer": "Vous pouvez obtenir votre carte d'étudiant au bureau des inscriptions après avoir complété votre inscription."
+    },
+    {
+      "id": 72,
+      "category": "Services Administratifs et Carte Étudiante",
+      "question": "Où puis-je faire renouveler ma carte d'étudiant si elle est perdue ou expirée ?",
+      "answer": "Vous pouvez demander un renouvellement de carte au bureau des inscriptions en fournissant une pièce d'identité."
+    },
+    {
+      "id": 73,
+      "category": "Services Administratifs et Carte Étudiante",
+      "question": "Quels sont les avantages liés à la carte d'étudiant (réductions, accès, etc.) ?",
+      "answer": "La carte d'étudiant offre des réductions dans les transports, les cinémas, et les restaurants partenaires, ainsi que l'accès aux installations du campus."
+    },
+    {
+      "id": 74,
+      "category": "Services Administratifs et Carte Étudiante",
+      "question": "Comment mettre à jour mes informations personnelles sur le système de l'établissement ?",
+      "answer": "Vous pouvez mettre à jour vos informations via votre espace étudiant en ligne ou en contactant le bureau des inscriptions."
+    },
+    {
+      "id": 75,
+      "category": "Services Administratifs et Carte Étudiante",
+      "question": "Où puis-je obtenir une attestation d'inscription ou un certificat de scolarité ?",
+      "answer": "Vous pouvez télécharger une attestation d'inscription depuis votre espace étudiant ou en faire la demande au bureau des inscriptions."
+    },
+
+    {
+      "id": 76,
+      "category": "Licence en Sciences de Gestion",
+      "question": "Quelle est la spécialité de Finance ?",
+      "answer": "Pour plus d'informations, veuillez consulter : https://ihec.rnu.tn/fr/article/488/licence-en-sciences-de-gestion-specialite-finance"
+    },
+    {
+      "id": 77,
+      "category": "Licence en Sciences de Gestion",
+      "question": "Quelle est la spécialité de Marketing ?",
+      "answer": "Pour plus d'informations, veuillez consulter : https://ihec.rnu.tn/fr/article/489/licence-en-sciences-de-gestion-specialite-marketing"
+    },
+    {
+      "id": 78,
+      "category": "Licence en Sciences de Gestion",
+      "question": "Quelle est la spécialité de Management ?",
+      "answer": "Pour plus d'informations, veuillez consulter : https://ihec.rnu.tn/fr/article/490/licence-en-sciences-de-gestion-specialite-management"
+    },
+    {
+      "id": 79,
+      "category": "Licence en Sciences de Gestion",
+      "question": "Quelle est la spécialité de Comptabilité ?",
+      "answer": "Pour plus d'informations, veuillez consulter : https://ihec.rnu.tn/fr/article/491/licence-en-sciences-de-gestion-specialite-comptabilite"
+    },
+    {
+      "id": 80,
+      "category": "Licence en Informatique de Gestion",
+      "question": "Quelle est la spécialité Business Intelligence ?",
+      "answer": "Pour plus d'informations, veuillez consulter : https://ihec.rnu.tn/fr/article/470/licence-en-informatique-de-gestion-business-intelligence"
+    },
+    {
+      "id": 81,
+      "category": "Master Recherche",
+      "question": "Qu'est-ce que le Master Recherche en Finance ?",
+      "answer": "Pour plus d'informations, veuillez consulter : https://ihec.rnu.tn/fr/article/484/master-recherche-en-finance"
+    },
+    {
+      "id": 82,
+      "category": "Master Recherche",
+      "question": "Qu'est-ce que le Master de Recherche en Ingénierie Économique et Financière ?",
+      "answer": "Pour plus d'informations, veuillez consulter : https://ihec.rnu.tn/fr/article/485/master-de-recherche-en-ingenierie-economique-et-financiere"
+    },
+    {
+      "id": 83,
+      "category": "Master Recherche",
+      "question": "Qu'est-ce que le Master de Recherche en Marketing ?",
+      "answer": "Pour plus d'informations, veuillez consulter : https://ihec.rnu.tn/fr/article/483/mastere-de-recherche-en-marketing"
+    },
+    {
+      "id": 84,
+      "category": "Master Recherche",
+      "question": "Qu'est-ce que le Master de Recherche en Management, Stratégie et Conseil ?",
+      "answer": "Pour plus d'informations, veuillez consulter : https://ihec.rnu.tn/fr/article/486/master-de-recherche-en-management-strategie-et-conseil"
+    },
+    {
+      "id": 85,
+      "category": "Bibliothèque et Ressources",
+      "question": "Quelle est la mission principale de la bibliothèque de l'IHEC?",
+      "answer": "La mission de la bibliothèque de l'IHEC est d'acquérir des documents, de traiter techniquement les informations, de diffuser les informations aux usagers et de contribuer à la réalisation des objectifs de l'institut dans l'enseignement et la recherche scientifique."
+    },
+    {
+      "id": 86,
+      "category": "Bibliothèque et Ressources",
+      "question": "Qui est responsable de la bibliothèque de l'IHEC?",
+      "answer": "Mme Hajer Soui est responsable de la bibliothèque de l'IHEC. Elle peut être contactée à hajer.soui@yahoo.fr ou hajer.soui@ihec.ucar.tn."
+    },
+    {
+      "id": 87,
+      "category": "Bibliothèque et Ressources",
+      "question": "Quels sont les services proposés par la bibliothèque?",
+      "answer": "La bibliothèque propose un service de prêt, un service technique, une salle des revues et une salle des mémoires."
+    },
+    {
+      "id": 88,
+      "category": "Bibliothèque et Ressources",
+      "question": "Quelles sont les ressources disponibles dans le fonds documentaire de la bibliothèque?",
+      "answer": "Le fonds documentaire comprend 21 630 ouvrages, 10 revues, 1 000 mémoires et 500 CD."
+    },
+    {
+      "id": 89,
+      "category": "Bibliothèque et Ressources",
+      "question": "Quels sont les moteurs de recherche externes recommandés par la bibliothèque?",
+      "answer": "Les moteurs de recherche externes recommandés sont Scholar.google.fr, Cairn.info, JSTOR, Springer et IEEE."
+    },
+    {
+      "id": 90,
+      "category": "Bibliothèque et Ressources",
+      "question": "Quels sont les types de licences proposées par l'IHEC?",
+      "answer": "L'IHEC propose des licences en Sciences de Gestion et en Informatique de Gestion - Business Intelligence."
+    },
+    {
+      "id": 91,
+      "category": "Bibliothèque et Ressources",
+      "question": "Quels sont les prérequis pour s'inscrire en Licence en Sciences de Gestion?",
+      "answer": "Le prérequis pour s'inscrire en Licence en Sciences de Gestion est le Baccalauréat."
+    },
+    {
+      "id": 92,
+      "category": "Bibliothèque et Ressources",
+      "question": "Quels sont les objectifs du Master Professionnel à l'IHEC?",
+      "answer": "Le Master Professionnel vise à développer des compétences techniques et managériales, à préparer à des postes stratégiques et à offrir une formation professionnalisante avec un stage de 6 mois."
+    },
+    {
+      "id": 93,
+      "category": "Bibliothèque et Ressources",
+      "question": "Quels clubs étudiants sont actifs à l'IHEC?",
+      "answer": "Parmi les clubs étudiants actifs à l'IHEC, on trouve Club Radio Libertad, AIESEC Tunisia, HECMUN, Rotaract Club, Discovery Club, Lions Club, 3ZERO Campus Club, HEC Finance Academy et Jeunes Femmes Entrepreneurs."
+    },
+    {
+      "id": 94,
+      "category": "Bibliothèque et Ressources",
+      "question": "Où se trouve l'IHEC?",
+      "answer": "L'IHEC est situé Rue Victor Hugo 2016, Carthage-Présidence."
+    },
+    {
+      "id": 95,
+      "category": "Bibliothèque et Ressources",
+      "question": "Quels sont les programmes doctoraux proposés par l'IHEC?",
+      "answer": "L'IHEC propose des programmes doctoraux en Comptabilité, Management, Marketing, Finance et Économie."
+    },
+    {
+      "id": 96,
+      "category": "Informations sur les Licences",
+      "question": "Quels sont les types de licences proposées par l'IHEC Carthage?",
+      "answer": "L'IHEC propose deux licences principales : Licence en Sciences de Gestion et Licence en Informatique de Gestion - Business Intelligence."
+    },
+    {
+      "id": 97,
+      "category": "Informations sur les Licences",
+      "question": "Combien de crédits ECTS sont nécessaires pour obtenir une licence à l'IHEC?",
+      "answer": "180 crédits ECTS sont nécessaires pour obtenir une licence."
+    },
+    {
+      "id": 98,
+      "category": "Informations sur les Licences",
+      "question": "Quelle est la durée d'une licence à l'IHEC?",
+      "answer": "La durée d'une licence est de 6 semestres, soit 3 ans."
+    },
+    {
+      "id": 99,
+      "category": "Informations sur les Licences",
+      "question": "Quels sont les cours étudiés en première année de Licence en Sciences de Gestion?",
+      "answer": "En première année, les cours incluent : Principes de gestion, Comptabilité financière, Microéconomie, Mathématiques et Statistique descriptive et calculs de probabilité."
+    },
+    {
+      "id": 100,
+      "category": "Bibliothèque et Ressources",
+      "question": "Quels sont les horaires d'ouverture de la bibliothèque ?",
+      "answer": "La bibliothèque est ouverte du lundi au vendredi de 8h à 18h."
+    },
+    {
+      "id": 101,
+      "category": "Bibliothèque et Ressources",
+      "question": "Comment accéder au catalogue en ligne de la bibliothèque ?",
+      "answer": "Le catalogue est accessible via le projet BIRUNI sur le site de l'IHEC."
+    },
+    {
+      "id": 102,
+      "category": "Masters et Programmes Supérieurs",
+      "question": "Quels types de Masters sont proposés à l'IHEC Carthage ?",
+      "answer": "L'IHEC propose des Masters Professionnels et des Masters de Recherche dans des domaines comme le Marketing, la Finance et le Management."
+    },
+    {
+      "id": 103,
+      "category": "Masters et Programmes Supérieurs",
+      "question": "Quelle est la durée d’un Master Professionnel ?",
+      "answer": "La durée d’un Master Professionnel est généralement de 2 ans, incluant un stage de 6 mois."
+    },
+    {
+      "id": 104,
+      "category": "Vie Étudiante",
+      "question": "Quels clubs sont accessibles aux étudiants de l'IHEC ?",
+      "answer": "Les clubs incluent AIESEC Tunisia, Discovery Club, HEC Finance Academy, Lions Club, et plus encore."
+    },
+    {
+      "id": 105,
+      "category": "Vie Étudiante",
+      "question": "Comment rejoindre un club étudiant à l'IHEC ?",
+      "answer": "Les étudiants peuvent rejoindre les clubs via les annonces faites sur les réseaux sociaux ou auprès des bureaux des clubs à l'IHEC."
+    },
+    {
+      "id": 106,
+      "category": "Programmes Doctoraux",
+      "question": "Quels sont les domaines de recherche disponibles pour un doctorat à l'IHEC ?",
+      "answer": "Les doctorats sont disponibles en Comptabilité, Management, Marketing, Finance et Économie."
+    },
+    {
+      "id": 107,
+      "category": "Programmes Doctoraux",
+      "question": "Quels sont les critères d’admission pour un doctorat à l’IHEC ?",
+      "answer": "Les candidats doivent être titulaires d’un Master de Recherche et avoir un projet validé par la commission de doctorat."
+    },
+    {
+      "id": 108,
+      "category": "Contacts et Localisation",
+      "question": "Comment contacter l’IHEC Carthage ?",
+      "answer": "Vous pouvez contacter l’IHEC par téléphone au +216 71774720 ou par email à contact@ihec.ucar.tn."
+    },
+    {
+      "id": 109,
+      "category": "Contacts et Localisation",
+      "question": "Où se situe l’IHEC Carthage ?",
+      "answer": "L’IHEC est situé Rue Victor Hugo 2016, Carthage-Présidence, Tunisie."
+    },
+    {
+      "id": 110,
+      "category": "Vie Étudiante",
+      "question": "Quels sont les avantages de rejoindre un club étudiant à l'IHEC ?",
+      "answer": "Rejoindre un club permet de développer des compétences sociales et professionnelles, de participer à des événements et d'élargir son réseau."
+    },
+    {
+      "id": 111,
+      "category": "Masters et Programmes Supérieurs",
+      "question": "Quels sont les avantages d’un Master à l’IHEC Carthage ?",
+      "answer": "Les Masters à l’IHEC offrent une spécialisation approfondie, des opportunités internationales, et un lien fort avec les entreprises."
+    },
+    {
+      "id": 112,
+      "category": "Programmes Doctoraux",
+      "question": "Quels soutiens sont disponibles pour les doctorants à l’IHEC ?",
+      "answer": "Les doctorants bénéficient de l’encadrement de chercheurs expérimentés, d’accès aux ressources de recherche et de collaborations internationales."
+    },
+    {
+      "id": 113,
+      "category": "Informations sur les Licences",
+      "question": "Quelles sont les compétences acquises en Licence Informatique de Gestion ?",
+      "answer": "Les compétences incluent la conception de systèmes d'aide à la décision et la gestion efficace des données."
+    },
+    {
+      "id": 114,
+      "category": "Bibliothèque et Ressources",
+      "question": "Quelles collaborations internationales sont actives à l'IHEC ?",
+      "answer": "L'IHEC collabore avec plusieurs universités internationales pour stages et échanges académiques."
+    },
+    {
+      "id": 115,
+      "category": "Informations Générales sur l'Établissement",
+      "question": "Quelle est la vision de notre établissement ?",
+      "answer": "Notre vision est de devenir une institution leader en éducation, accessible et centrée sur l'innovation et l'excellence."
+    },
+    {
+      "id": 116,
+      "category": "Informations Générales sur l'Établissement",
+      "question": "Quelles valeurs guident notre école dans ses activités quotidiennes ?",
+      "answer": "Nous valorisons l'intégrité, la diversité, l'innovation et le service à la communauté."
+    },
+    {
+      "id": 117,
+      "category": "Informations Générales sur l'Établissement",
+      "question": "Quel est le nombre total d'étudiants inscrits actuellement ?",
+      "answer": "Actuellement, notre école compte 10 000 étudiants dans ses différents programmes."
+    },
+    {
+      "id": 118,
+      "category": "Informations Générales sur l'Établissement",
+      "question": "Combien de temps faut-il en moyenne pour obtenir un diplôme ?",
+      "answer": "En moyenne, un diplôme de premier cycle nécessite entre 3 et 4 années d'études."
+    },
+    {
+      "id": 119,
+      "category": "Informations Générales sur l'Établissement",
+      "question": "Avec quelles institutions internationales collaborons-nous ?",
+      "answer": "Nous avons des partenariats avec des universités prestigieuses comme Oxford, MIT et l'Université de Melbourne."
+    },
+    {
+      "id": 120,
+      "category": "Programmes et Cours",
+      "question": "Quels cursus de licence proposez-vous ?",
+      "answer": "Nous proposons des cursus en ingénierie, commerce, sciences sociales et technologies de l'information."
+    },
+    {
+      "id": 121,
+      "category": "Programmes et Cours",
+      "question": "Quels programmes de master et doctorat sont disponibles ?",
+      "answer": "Nous offrons des masters en intelligence artificielle, MBA, ainsi que des doctorats en sciences appliquées."
+    },
+    {
+      "id": 122,
+      "category": "Programmes et Cours",
+      "question": "Disposez-vous d'options d'apprentissage à distance ?",
+      "answer": "Oui, des options d'apprentissage à distance sont disponibles pour les étudiants ne pouvant se déplacer."
+    },
+    {
+      "id": 123,
+      "category": "Programmes et Cours",
+      "question": "Quels sont les modules les plus prisés par les étudiants ?",
+      "answer": "Les modules en programmation, finance et sciences comportementales sont parmi les plus suivis."
+    },
+    {
+      "id": 124,
+      "category": "Programmes et Cours",
+      "question": "Proposez-vous des opportunités d'échange académique ?",
+      "answer": "Oui, nous proposons des programmes d'échange avec plus de 50 universités partenaires à l'international."
+    },
+    {
+      "id": 125,
+      "category": "Admission et Inscription",
+      "question": "Quels sont les prérequis pour intégrer votre établissement ?",
+      "answer": "Un baccalauréat, une lettre de motivation, et des résultats satisfaisants aux tests requis sont nécessaires."
+  },
+  {
+      "id": 126,
+      "category": "Admission et Inscription",
+      "question": "De quels justificatifs ai-je besoin pour compléter mon inscription ?",
+      "answer": "Vous devrez fournir un diplôme, une pièce d'identité valide, une photo récente, et la preuve de paiement des frais."
+  },
+  {
+      "id": 127,
+      "category": "Admission et Inscription",
+      "question": "Doit-on payer des frais d'inscription ? Si oui, à combien s'élèvent-ils ?",
+      "answer": "Les frais d'inscription s'élèvent à 200 euros pour tous les nouveaux candidats."
+  },
+  {
+      "id": 128,
+      "category": "Admission et Inscription",
+      "question": "Proposez-vous des aides financières ou des bourses ?",
+      "answer": "Oui, nous offrons des bourses basées sur l'excellence académique ou la situation financière."
+  },
+  {
+      "id": 129,
+      "category": "Admission et Inscription",
+      "question": "Quand est la dernière date pour envoyer sa candidature ?",
+      "answer": "Les candidatures doivent être soumises au plus tard le 30 juin chaque année."
+  },
+  {
+      "id": 130,
+      "category": "Vie Étudiante",
+      "question": "Quelles opportunités d'activités en dehors des cours sont disponibles ?",
+      "answer": "Nous proposons des équipes sportives, des groupes culturels, et des événements communautaires réguliers."
+  },
+  {
+      "id": 131,
+      "category": "Vie Étudiante",
+      "question": "Quels clubs étudiants peut-on rejoindre sur le campus ?",
+      "answer": "Le campus compte plus de 50 clubs, notamment des clubs d'échecs, de musique, et de technologie."
+  },
+  {
+      "id": 132,
+      "category": "Vie Étudiante",
+      "question": "Quels types de services d'accompagnement sont offerts aux étudiants ?",
+      "answer": "Nous mettons à disposition un accompagnement académique, un soutien psychologique, et des conseils en orientation de carrière."
+  },
+  {
+      "id": 133,
+      "category": "Vie Étudiante",
+      "question": "Le campus dispose-t-il de logements pour les étudiants ?",
+      "answer": "Oui, des résidences modernes offrent des chambres individuelles et des espaces partagés selon les préférences."
+  },
+  {
+      "id": 134,
+      "category": "Vie Étudiante",
+      "question": "Quelles sont les options de transport pour les étudiants ?",
+      "answer": "Des navettes gratuites relient les résidences au campus, et des tarifs réduits sont proposés pour les transports en commun."
+  },
+    {
+        "id": 135,
+        "category": "Ressources Académiques",
+        "question": "Quels sont les horaires d'accès à la bibliothèque ?",
+        "answer": "La bibliothèque est ouverte du lundi au vendredi de 8h à 20h, ainsi que le samedi de 9h à 17h."
+    },
+    {
+        "id": 136,
+        "category": "Ressources Académiques",
+        "question": "Y a-t-il des ressources électroniques accessibles aux étudiants ?",
+        "answer": "Oui, notre plateforme numérique propose une large gamme de livres électroniques, articles académiques et contenus vidéo éducatifs."
+    },
+    {
+        "id": 137,
+        "category": "Ressources Académiques",
+        "question": "Comment réserver l'accès aux laboratoires de recherche ?",
+        "answer": "Les laboratoires sont accessibles sur réservation pour les étudiants inscrits dans des programmes de recherche."
+    },
+    {
+        "id": 138,
+        "category": "Ressources Académiques",
+        "question": "Des séances de soutien académique sont-elles disponibles ?",
+        "answer": "Oui, des séances de tutorat gratuites sont proposées pour aider les étudiants en difficulté."
+    },
+    {
+        "id": 139,
+        "category": "Ressources Académiques",
+        "question": "Quels outils logiciels sont fournis par l'établissement ?",
+        "answer": "L'établissement met à disposition des licences pour des outils comme Microsoft Office, MATLAB et d'autres logiciels spécialisés."
+    },
+    {
+        "id": 140,
+        "category": "Services de Carrière",
+        "question": "Quels services sont offerts pour aider les étudiants à décrocher un emploi ?",
+        "answer": "Nous proposons des ateliers de rédaction de CV, des simulations d'entretiens et des salons de recrutement."
+    },
+    {
+        "id": 141,
+        "category": "Services de Carrière",
+        "question": "Les stages font-ils partie des exigences de certains programmes ?",
+        "answer": "Oui, certains programmes académiques incluent des stages obligatoires pour valider le diplôme."
+    },
+    {
+        "id": 142,
+        "category": "Services de Carrière",
+        "question": "Comment l'établissement aide-t-il les étudiants dans leur recherche d'emploi ?",
+        "answer": "Nous organisons des événements de networking, des ateliers de développement professionnel et des partenariats avec des entreprises."
+    },
+    {
+        "id": 143,
+        "category": "Services de Carrière",
+        "question": "Des ateliers de préparation à la carrière sont-ils proposés ?",
+        "answer": "Oui, nous offrons des ateliers réguliers sur la recherche d'emploi, la négociation salariale et la gestion de carrière."
+    },
+    {
+        "id": 144,
+        "category": "Services de Carrière",
+        "question": "Quelles entreprises recrutent fréquemment sur le campus ?",
+        "answer": "Des entreprises comme Google, Amazon et Deloitte recrutent régulièrement sur notre campus."
+    },
+      {
+          "id": 145,
+          "category": "Santé et Bien-être",
+          "question": "Le campus dispose-t-il d'un centre médical ?",
+          "answer": "Oui, un centre de santé est disponible sur le campus, ouvert du lundi au vendredi de 9h à 17h."
+      },
+      {
+          "id": 146,
+          "category": "Santé et Bien-être",
+          "question": "Quels services sont proposés pour la santé mentale des étudiants ?",
+          "answer": "Des consultations psychologiques gratuites sont offertes aux étudiants pour les soutenir."
+      },
+      {
+          "id": 147,
+          "category": "Santé et Bien-être",
+          "question": "Existe-t-il des activités de bien-être pour les étudiants ?",
+          "answer": "Oui, nous organisons des ateliers de méditation, des sessions de gestion du stress et des conseils en nutrition."
+      },
+      {
+          "id": 148,
+          "category": "Santé et Bien-être",
+          "question": "Comment signaler un problème de santé ou de sécurité sur le campus ?",
+          "answer": "Vous pouvez contacter le bureau de la sécurité ou utiliser le numéro d'urgence disponible pour signaler tout problème."
+      },
+      {
+          "id": 149,
+          "category": "Santé et Bien-être",
+          "question": "Les étudiants ont-ils accès à des installations sportives ?",
+          "answer": "Oui, le campus dispose d'un gymnase, d'une piscine et de terrains de sport ouverts à tous les étudiants."
+      },
+      {
+          "id": 150,
+          "category": "Technologie et Innovation",
+          "question": "Quels équipements technologiques sont utilisés dans les salles de classe ?",
+          "answer": "Nos salles de classe sont équipées de tableaux interactifs, de projecteurs 4K et de systèmes de visioconférence."
+      },
+      {
+          "id": 151,
+          "category": "Technologie et Innovation",
+          "question": "Y a-t-il des projets de recherche ou d'innovation en cours ?",
+          "answer": "Oui, nous menons des recherches dans des domaines comme l'intelligence artificielle, la robotique et les énergies renouvelables."
+      },
+      {
+          "id": 152,
+          "category": "Technologie et Innovation",
+          "question": "Comment se connecter au Wi-Fi sur le campus ?",
+          "answer": "Les étudiants peuvent accéder au Wi-Fi en utilisant leurs identifiants universitaires pour se connecter."
+      },
+      {
+          "id": 153,
+          "category": "Technologie et Innovation",
+          "question": "Des ressources informatiques sont-elles disponibles pour les étudiants ?",
+          "answer": "Oui, des laboratoires informatiques équipés des derniers logiciels et matériels sont accessibles aux étudiants."
+      },
+      {
+          "id": 154,
+          "category": "Technologie et Innovation",
+          "question": "Comment signaler un problème technique sur le campus ?",
+          "answer": "Vous pouvez contacter le support technique via le portail en ligne ou en appelant le bureau d'assistance dédié."
+      },
+      
+        {
+            "id": 155,
+            "category": "Stages et Expériences Professionnelles",
+            "question": "Quelles entreprises collaborent avec l'établissement pour les stages ?",
+            "answer": "Nous collaborons avec des entreprises renommées telles que Microsoft, Total et L'Oréal pour les stages."
+        },
+        {
+            "id": 156,
+            "category": "Professeurs et Encadrement",
+            "question": "Comment puis-je joindre un professeur en dehors des cours ?",
+            "answer": "Vous pouvez envoyer un e-mail ou demander un rendez-vous pendant les heures de bureau du professeur."
+        },
+        {
+            "id": 157,
+            "category": "Professeurs et Encadrement",
+            "question": "Les professeurs ont-ils des créneaux dédiés pour rencontrer les étudiants ?",
+            "answer": "Oui, chaque professeur indique ses heures de bureau sur son profil en ligne pour les rencontres."
+        },
+        {
+            "id": 158,
+            "category": "Professeurs et Encadrement",
+            "question": "Comment identifier le responsable pédagogique de mon cursus ?",
+            "answer": "Le responsable pédagogique est mentionné dans la description de votre programme sur le site de l'établissement."
+        },
+        {
+            "id": 159,
+            "category": "Professeurs et Encadrement",
+            "question": "Les professeurs offrent-ils des opportunités de recherche aux étudiants ?",
+            "answer": "Oui, plusieurs professeurs proposent des projets de recherche pour les étudiants motivés."
+        },
+        {
+            "id": 160,
+            "category": "Professeurs et Encadrement",
+            "question": "Comment demander une lettre de recommandation à un professeur ?",
+            "answer": "Vous pouvez solliciter une lettre de recommandation en personne ou par e-mail, en fournissant les informations nécessaires."
+        },
+        {
+            "id": 161,
+            "category": "Clubs Étudiants et Associations",
+            "question": "Quels sont les clubs étudiants les plus populaires sur le campus ?",
+            "answer": "Les clubs les plus populaires incluent le club de débat, le club de robotique et l'association des arts créatifs."
+        },
+        {
+            "id": 162,
+            "category": "Clubs Étudiants et Associations",
+            "question": "Quelles sont les étapes pour fonder un nouveau club étudiant ?",
+            "answer": "Pour créer un club, vous devez soumettre une proposition détaillée au bureau des activités étudiantes."
+        },
+        {
+            "id": 163,
+            "category": "Clubs Étudiants et Associations",
+            "question": "Existe-t-il des aides financières pour les clubs étudiants ?",
+            "answer": "Oui, les clubs peuvent solliciter des subventions auprès du bureau des activités étudiantes pour financer leurs projets."
+        },
+        {
+            "id": 164,
+            "category": "Clubs Étudiants et Associations",
+            "question": "Comment intégrer un club ou une association étudiante ?",
+            "answer": "Vous pouvez vous inscrire à un club via le portail étudiant ou lors des événements d'intégration."
+        },
+        {
+            "id": 165,
+            "category": "Clubs Étudiants et Associations",
+            "question": "Quels types d'événements sont prévus par les clubs étudiants cette année ?",
+            "answer": "Les clubs organisent des événements variés, tels que des compétitions sportives, des ateliers artistiques et des conférences."
+        },
+        
+          {
+              "id": 166,
+              "category": "Licence en Sciences de Gestion",
+              "question": "En quoi consiste la spécialité Comptabilité ?",
+              "answer": "Pour plus de détails, visitez : https://ihec.rnu.tn/fr/article/491/licence-en-sciences-de-gestion-specialite-comptabilite"
+          },
+          {
+              "id": 167,
+              "category": "Licence en Informatique de Gestion",
+              "question": "Qu’est-ce que la spécialité Business Intelligence ?",
+              "answer": "Pour en savoir plus, consultez : https://ihec.rnu.tn/fr/article/470/licence-en-informatique-de-gestion-business-intelligence"
+          },
+          {
+              "id": 168,
+              "category": "Master Recherche",
+              "question": "Quel est l’objectif du Master Recherche en Finance ?",
+              "answer": "Pour plus d’informations, rendez-vous sur : https://ihec.rnu.tn/fr/article/484/master-recherche-en-finance"
+          },
+          {
+              "id": 169,
+              "category": "Master Recherche",
+              "question": "Qu’est-ce que le Master de Recherche en Ingénierie Économique et Financière ?",
+              "answer": "Pour plus de détails, visitez : https://ihec.rnu.tn/fr/article/485/master-de-recherche-en-ingenierie-economique-et-financiere"
+          },
+          {
+              "id": 170,
+              "category": "Master Recherche",
+              "question": "Quel est le contenu du Master de Recherche en Marketing ?",
+              "answer": "Pour en savoir plus, consultez : https://ihec.rnu.tn/fr/article/483/mastere-de-recherche-en-marketing"
+          },
+          {
+              "id": 171,
+              "category": "Master Recherche",
+              "question": "Qu’est-ce que le Master de Recherche en Management, Stratégie et Conseil ?",
+              "answer": "Pour plus d’informations, rendez-vous sur : https://ihec.rnu.tn/fr/article/486/master-de-recherche-en-management-strategie-et-conseil"
+          },
+          {
+              "id": 172,
+              "category": "Bibliothèque et Ressources",
+              "question": "Quel est le rôle principal de la bibliothèque de l’IHEC ?",
+              "answer": "La bibliothèque de l’IHEC a pour mission d’acquérir des ressources, de traiter les informations, de les diffuser aux utilisateurs et de soutenir les objectifs de l’institut en enseignement et recherche."
+          },
+          {
+              "id": 173,
+              "category": "Bibliothèque et Ressources",
+              "question": "Qui dirige la bibliothèque de l’IHEC ?",
+              "answer": "Mme Hajer Soui est la responsable de la bibliothèque. Vous pouvez la contacter à hajer.soui@yahoo.fr ou hajer.soui@ihec.ucar.tn."
+          },
+          {
+              "id": 174,
+              "category": "Bibliothèque et Ressources",
+              "question": "Quels services sont offerts par la bibliothèque ?",
+              "answer": "La bibliothèque propose des services de prêt, un département technique, une salle de revues et une salle dédiée aux mémoires."
+          },
+          {
+              "id": 175,
+              "category": "Bibliothèque et Ressources",
+              "question": "Quelles ressources sont disponibles dans la bibliothèque ?",
+              "answer": "Le fonds documentaire inclut 21 630 ouvrages, 10 revues, 1 000 mémoires et 500 CD."
+          },
+          {
+              "id": 176,
+              "category": "Bibliothèque et Ressources",
+              "question": "Quels sont les moteurs de recherche suggérés par la bibliothèque ?",
+              "answer": "La bibliothèque recommande des moteurs de recherche comme Scholar.google.fr, Cairn.info, JSTOR, Springer et IEEE."
+          },
+          {
+              "id": 177,
+              "category": "Bibliothèque et Ressources",
+              "question": "Quelles licences sont proposées par l’IHEC ?",
+              "answer": "L’IHEC propose des licences en Sciences de Gestion et en Informatique de Gestion - Business Intelligence."
+          },
+          
+            {
+                "id": 178,
+                "category": "Salutations",
+                "question": "Salem",
+                "answer": "Salem, comment ça va ?"
+            },
+            {
+                "id": 179,
+                "category": "Salutations",
+                "question": "Salam",
+                "answer": "Salam, ravi de vous voir !"
+            },
+            {
+                "id": 180,
+                "category": "Salutations",
+                "question": "Slm",
+                "answer": "Slm, tout va bien ?"
+            },
+            {
+                "id": 181,
+                "category": "Salutations",
+                "question": "Bonjour",
+                "answer": "Bonjour, comment puis-je vous aider ?"
+            },
+            {
+                "id": 182,
+                "category": "Salutations",
+                "question": "Bonsoir",
+                "answer": "Bonsoir, je suis à votre disposition."
+            },
+            {
+                "id": 183,
+                "category": "Salutations",
+                "question": "Salut",
+                "answer": "Salut, quoi de neuf ?"
+            },
+            {
+                "id": 184,
+                "category": "Salutations",
+                "question": "Hello",
+                "answer": "Hello, bienvenue !"
+            },
+            {
+                "id": 185,
+                "category": "Salutations",
+                "question": "Salem",
+                "answer": "Salem, ça fait plaisir de vous revoir !"
+            },
+            {
+                "id": 186,
+                "category": "Salutations",
+                "question": "Salam",
+                "answer": "Salam, comment s'est passée votre journée ?"
+            },
+            {
+                "id": 187,
+                "category": "Salutations",
+                "question": "Bonjour",
+                "answer": "Bonjour, je suis là pour vous aider."
+            },
+            {
+                "id": 188,
+                "category": "Salutations",
+                "question": "Bonsoir",
+                "answer": "Bonsoir, comment puis-je vous assister ce soir ?"
+            },
+            {
+                "id": 189,
+                "category": "Salutations",
+                "question": "Salut",
+                "answer": "Salut, ça roule ?"
+            },
+            {
+                "id": 190,
+                "category": "Salutations",
+                "question": "Hello",
+                "answer": "Hello, comment allez-vous ?"
+            }
+        
+        
+           
+  ]
+}

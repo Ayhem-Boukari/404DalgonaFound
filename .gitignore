@@ -1,0 +1,42 @@
+/ai-model/fine_tuned_faq_model/model.safetensors
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/chatbot-widget/node_modules
+/chatbot-widget/.pnp
+/chatbot-widget.pnp.*
+/chatbot-widget.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# testing
+/coverage
+
+# next.js
+/chatbot-widget/.next/
+/chatbot-widget/out/
+
+# production
+/chatbot-widget/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# env files (can opt-in for committing if needed)
+/chatbot-widget.env*
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+/chatbot-widgetnext-env.d.ts
